@@ -1,7 +1,34 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Costco Sales Dashboard"
+excerpt: "Interactive Power BI dashboard analyzing Costco's sales data. <br/><img src='/images/costco-thumb.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This Power BI dashboard provides a comprehensive analysis of Costco's sales performance, visualizing key business insights like revenue, profit, orders, product sales, and regional performance.
+
+---
+
+### 🛠 Technologies Used
+
+- **Microsoft Power BI** – Data visualization & analysis  
+- **SQL** – Data extraction & transformation  
+- **Excel** – Data preprocessing  
+
+---
+
+### 📊 Use Cases
+
+1. **Sales Overview** – Displays total revenue, profit, and order trends over time  
+2. **Regional Performance** – Revenue and profit distribution across different regions  
+3. **Product Analysis** – Highlights top-selling products and their contributions to revenue  
+4. **Order vs. Target** – Compares actual vs. target order performance  
+5. **Revenue Segmentation** – Breakdown by Consumer, Corporate, and Home Office categories  
+6. **Interactive Filters** – Enables analysis for different years  
+
+---
+
+⚠️ *The dashboard may take a few seconds to load. Please be patient!*
+
+<br/>
+
+<iframe title="Costco Dashboard" width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTNkNTAwYjMtZTk1NS00YjFkLWJiOWMtZGNjMDZmMzMxYjNhIiwidCI6IjUyYWRmODM1LTJlMjItNDkyZC04ZDUxLWIzMTNkYmNkN2NjZiJ9" frameborder="0" allowfullscreen="true"></iframe>
