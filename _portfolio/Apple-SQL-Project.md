@@ -1,6 +1,6 @@
 ---
 title: "Apple SQL Project"
-excerpt: "In-depth SQL project analyzing Apple Store sales and warranty claims data. <!-- <br/><img src='https://media.istockphoto.com/id/1093502184/photo/apple-store-logo-and-showcase.jpg? --> s=612x612&w=0&k=20&c=3anDxMR_Tkkvvqj9DDVv9nUz3ukwh0KMKMtSluqOMPA='>"
+excerpt: "In-depth SQL project analyzing Apple Store sales and warranty claims data. <!-- <br/><img src='https://media.istockphoto.com/id/1093502184/photo/apple-store-logo-and-showcase.jpg? s=612x612&w=0&k=20&c=3anDxMR_Tkkvvqj9DDVv9nUz3ukwh0KMKMtSluqOMPA='>" --> 
 collection: portfolio
 ---
 
