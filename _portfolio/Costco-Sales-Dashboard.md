@@ -1,6 +1,6 @@
 ---
 title: "Costco Sales Dashboard"
-excerpt: "Interactive Power BI dashboard analyzing Costco's sales data. <br/><img src='https://media.istockphoto.com/id/814423752/photo/eye-of-model-with-colorful-art-make-up-close-up.jpg?s=612x612&w=0&k=20&c=l15OdMWjgCKycMMShP8UK94ELVlEGvt7GmB_esHWPYE='>"
+excerpt: "Interactive Power BI dashboard analyzing Costco's sales data."
 collection: portfolio
 ---
 
@@ -32,3 +32,9 @@ This Power BI dashboard provides a comprehensive analysis of Costco's sales perf
 <br/>
 
 <iframe title="Costco Dashboard" width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTNkNTAwYjMtZTk1NS00YjFkLWJiOWMtZGNjMDZmMzMxYjNhIiwidCI6IjUyYWRmODM1LTJlMjItNDkyZC04ZDUxLWIzMTNkYmNkN2NjZiJ9" frameborder="0" allowfullscreen="true"></iframe>
+
+---
+
+### 🔗 GitHub Repository
+
+[Click here to view the project](https://github.com/tanish8851/Costco-Sales-Dynamic-Dashboard-Power-Bi-)
