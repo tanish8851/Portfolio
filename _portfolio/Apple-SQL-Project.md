@@ -1,6 +1,6 @@
 ---
 title: "Apple SQL Project"
-excerpt: "In-depth SQL project analyzing Apple Store sales and warranty claims data. 
+excerpt: "In-depth SQL project analyzing Apple Store sales and warranty claims data." 
 collection: portfolio
 ---
 
