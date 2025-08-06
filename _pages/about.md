@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tanish Grover | Power BI Data Analyst"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
