@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Computer Applications (Undergraduate), Sirifort Institute Of Management Studies, GGSIPU, Aug 2022 – Jun 2025, GPA: 8.9  
+* Commerce with Informatics Practices (High School, XII), Banasthali Public School, Apr 2022, 89%  
+* General Studies (Secondary School, X), Banasthali Public School, Apr 2020, 89%  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 – Present: Data Analyst Intern  
+  * Deloitte (Virtual Experience)  
+  * Duties include: Worked on Power BI dashboards and data analysis for forensic audit simulations.  
+  * Highlights:  
+    * Built interactive dashboards using Power BI (heatmaps, slicers, drill-downs).  
+    * Analyzed 100K+ logs using Python and SQL to detect downtime patterns.  
+    * Improved asset utilization by 15% and reduced MTTR by 12%.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2025 – Present: Data Analyst Intern  
+  * Quantium (Virtual Experience)  
+  * Duties include: Retail and FMCG analytics project using Python, SQL, and A/B testing.  
+  * Highlights:  
+    * Analyzed 260K+ transactions and 72K profiles using Pandas, SQL.  
+    * Performed RFM segmentation and built uplift models with scikit-learn.  
+    * Quantified 9.5% sales lift via A/B testing of marketing campaigns.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Business Analysis Tools & Languages:** SQL, Power BI, Tableau, Advanced Excel, Python, Statistics, Machine Learning  
+* **Specialities:** Data Analytics, Business Intelligence, Reporting, Automation, A/B testing, Hypothesis Building, Funnel Optimization, Web Analytics, Market Mix Modelling, Project Management, Documentation, Communication, Problem-solving, Critical thinking, Logical Reasoning, Decision Making  
 
-Publications
+Certificates
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Microsoft Power BI Data Analyst Professional – Microsoft, Jan 2025  
+* Data Analyst Certification – Aptech, Mar 2025 
