@@ -1,32 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Tanish grover",
+    "email": "tanishgrover162004@gmail.com",
+    "phone": "(+91) 8851334999",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "A Data Analyst with 3 months of experience in IT and Analytics domain. Proficient in SQL, Power BI, Python, Excel, Tableau, Statistics and Machine Learning",
     "location": {
-      "address": "",
+      "address": "Delhi",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "tanishgrover",
+        "url": "https://www.linkedin.com/in/tanishgrover2004"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tanish8851",
+        "url": "https://github.com/tanish8851"
       }
     ]
   },
