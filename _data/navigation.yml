@@ -10,6 +10,9 @@
 main:
   - title: "About"
     url: /cv-json/
+
+  - title: "About 1"
+    url: /cv/
     
   - title: "Projects"
     url: /portfolio/
