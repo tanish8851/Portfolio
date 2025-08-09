@@ -12,24 +12,19 @@ redirect_from:
 
 I turn complex data into actionable insights through analytics and visualization. With hands-on experience in **SQL**, **Power BI**, and **Python**, I specialize in transforming raw datasets into business intelligence solutions that drive results.
 
-Some of my featured work includes:
-- 📊 **Apple Store SQL Analysis**
-- 🧹 **Python Data Cleaning App**
-- 📈 **Interactive Power BI Dashboards**
-
 My passion lies in solving real-world problems through data. I'm always open to collaborations, new technologies in analytics, and continuous learning in the AI/data space.
 
 ---
 
-## 🚀 Explore My Work
+## 🚀 Latest Projects
 
-- [View Projects](/portfolio)
-- [Download CV](/files/Tanish_Grover_CV.pdf)
-- [Contact Me](/contact)
+- 📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
+- 📈[Costco Sales Dashboard](/portfolio/python-data-cleaning-app/)
+- 🧹[Python Data Cleaning App](portfolio/python-data-cleaning-app/)
 
 ---
 
-## 🔗 Connect With Me
+<a href="/cv/" class="btn" style="background-color:#0078D4; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
+    View My CV
+</a>
 
-- [LinkedIn](https://linkedin.com/in/tanishgrover2004)
-- [GitHub](https://github.com/tanish8851)
