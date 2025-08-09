@@ -15,25 +15,24 @@ I turn complex data into actionable insights through analytics and visualization
 My passion lies in solving real-world problems through data. I'm always open to collaborations, new technologies in analytics, and continuous learning in the AI/data space.
 
 
-
 ## ⚡ Skills
 
 **Business Analysis Tools & Languages**  
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">SQL</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Power BI</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Tableau</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Advanced Excel</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Python</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Statistics</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Machine Learning</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">SQL</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Power BI</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Tableau</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Advanced Excel</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Python</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Statistics</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Machine Learning</span>
 
 **Specialities**  
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Data Analytics</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Business Intelligence</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px;">Reporting</span>
-
-
-
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Data Analytics</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Business Intelligence</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Reporting</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Automation</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">A/B Testing</span>
+<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Hypothesis Building</span>
 
 
 ## 🚀 Latest Projects
