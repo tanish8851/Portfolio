@@ -18,32 +18,42 @@ My passion lies in solving real-world problems through data. I'm always open to 
 ## ⚡ Skills
 
 **Business Analysis Tools & Languages**  
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">SQL</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Power BI</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Tableau</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Advanced Excel</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Python</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Statistics</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Machine Learning</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">SQL</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Power BI</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Tableau</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Advanced Excel</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Python</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Statistics</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Machine Learning</span>
 
 **Specialities**  
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Data Analytics</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Business Intelligence</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Reporting</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Automation</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">A/B Testing</span>
-<span style="background:#f0f0f0; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Hypothesis Building</span>
-
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Data Analytics</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Business Intelligence</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Reporting</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Automation</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">A/B Testing</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Hypothesis Building</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Funnel Optimization</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Web Analytics</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Market Mix Modelling</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Project Management</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Documentation</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Communication</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Problem- solving</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Critical thinking</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Decision Making</span>
+<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Logical Reasoning</span>
 
 ## 🚀 Latest Projects
 
-📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
-📈[Costco Sales Dashboard](/portfolio/python-data-cleaning-app/)
-🧹[Python Data Cleaning App](portfolio/python-data-cleaning-app/)
+<ul style="list-style-type:none; padding-left:0;">
+  <li>📊 <a href="/portfolio/Apple-SQL-Project/">Apple SQL Project</a></li>
+  <li>📈 <a href="/portfolio/python-data-cleaning-app/">Costco Sales Dashboard</a></li>
+  <li>🧹 <a href="/portfolio/python-data-cleaning-app/">Python Data Cleaning App</a></li>
+</ul>
 
 
-
-<a href="/cv/" class="btn" style="background-color:#0078D4; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
+<a href="/cv/" class="btn" style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
     View My CV
 </a>
 
