@@ -46,9 +46,9 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ## 🚀 Latest Projects
 
--📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
--📈[Costco Sales Dashboard](/portfolio/python-data-cleaning-app/)
--🧹[Python Data Cleaning App](portfolio/python-data-cleaning-app/)
+- 📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
+- 📈[Costco Sales Dashboard](/portfolio/python-data-cleaning-app/)
+- 🧹[Python Data Cleaning App](portfolio/python-data-cleaning-app/)
 
 ---
 
