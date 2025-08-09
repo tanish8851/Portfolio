@@ -16,6 +16,37 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ---
 
+## ⚡Skills
+
+**Business Analysis Tools & Languages**  
+<span class="badge badge--primary">SQL</span>
+<span class="badge badge--primary">Power BI</span>
+<span class="badge badge--primary">Tableau</span>
+<span class="badge badge--primary">Advanced Excel</span>
+<span class="badge badge--primary">Python</span>
+<span class="badge badge--primary">Statistics</span>
+<span class="badge badge--primary">Machine Learning</span>
+
+**Specialities**  
+<span class="badge badge--secondary">Data Analytics</span>
+<span class="badge badge--secondary">Business Intelligence</span>
+<span class="badge badge--secondary">Reporting</span>
+<span class="badge badge--secondary">Automation</span>
+<span class="badge badge--secondary">A/B Testing</span>
+<span class="badge badge--secondary">Hypothesis Building</span>
+<span class="badge badge--secondary">Funnel Optimization</span>
+<span class="badge badge--secondary">Web Analytics</span>
+<span class="badge badge--secondary">Market Mix Modelling</span>
+<span class="badge badge--secondary">Project Management</span>
+<span class="badge badge--secondary">Documentation</span>
+<span class="badge badge--secondary">Communication</span>
+<span class="badge badge--secondary">Problem-Solving</span>
+<span class="badge badge--secondary">Critical Thinking</span>
+<span class="badge badge--secondary">Logical Reasoning</span>
+<span class="badge badge--secondary">Decision Making</span>
+
+---
+
 ## 🚀 Latest Projects
 
 - 📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
