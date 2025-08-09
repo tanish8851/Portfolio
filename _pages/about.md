@@ -46,12 +46,11 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ## 🚀 Latest Projects
 
-<ul style="list-style-type:none; padding-left:0;">
-  <li>📊 <a href="/portfolio/Apple-SQL-Project/">Apple SQL Project</a></li>
-  <li>📈 <a href="/portfolio/python-data-cleaning-app/">Costco Sales Dashboard</a></li>
-  <li>🧹 <a href="/portfolio/python-data-cleaning-app/">Python Data Cleaning App</a></li>
-</ul>
+-📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
+-📈[Costco Sales Dashboard](/portfolio/python-data-cleaning-app/)
+-🧹[Python Data Cleaning App](portfolio/python-data-cleaning-app/)
 
+---
 
 <a href="/cv/" class="btn" style="background-color:#000000; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
     View My CV
