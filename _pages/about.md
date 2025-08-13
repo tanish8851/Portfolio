@@ -52,7 +52,7 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ---
 
-<a href="/cv/" class="btn" style="background-color:#35393c; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
+<a href="/files/DATA%20ANALYST_TANISH%20GROVER_FRESHER.pdf" class="btn" style="background-color:#35393c; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
     View My CV
 </a>
 
