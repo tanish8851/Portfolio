@@ -52,7 +52,7 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ---
 
-<a href="https://sahill-dhingra.github.io/testing.github.io/files/tanish_grover_resume.pdf" class="btn" style="background-color:#35393c; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
+<a href="https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf" class="btn" style="background-color:#35393c; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
     View My CV
 </a>
 
