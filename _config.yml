@@ -24,6 +24,7 @@ author:
   # Biographic information
   avatar           : "profile1.jpg"
   name             : "Tanish Grover"
+  phone            : "+91 8851334999" 
   pronouns         : # example: "she/her"  
   bio              : "Power BI Data Analyst | SQL | Python"
   location         : "Delhi, India"
