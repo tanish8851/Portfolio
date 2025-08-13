@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### 👋 Hi, I'm Tanish Grover  
+# 👋 Hi, I'm Tanish Grover  
 **Power BI Data Analyst | SQL | Python**
 
 I turn complex data into actionable insights through analytics and visualization. With hands-on experience in **SQL**, **Power BI**, and **Python**, I specialize in transforming raw datasets into business intelligence solutions that drive results.
