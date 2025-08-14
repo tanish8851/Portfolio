@@ -10,9 +10,12 @@
 main:
   # - title: "About"
   #   url: /cv-json/
+  
+  - title: "Home"
+    url: /
 
   - title: "About"
-    url: /cv/
+    url: /About/
     
   - title: "Projects"
     url: /Projects/
