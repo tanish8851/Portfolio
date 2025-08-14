@@ -15,7 +15,7 @@ main:
     url: /cv/
     
   - title: "Projects"
-    url: /portfolio/
+    url: /Projects/
     
   - title: "Resume"
     url: /files/tanish_grover_resume.pdf
