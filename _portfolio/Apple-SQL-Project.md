@@ -75,4 +75,8 @@ An end‑to‑end SQL analysis of Apple Store sales and warranty claims to uncov
 
 ![Entity Relationship Diagram (ERD)](images/image.png)
 
+![ERD]({{ "/images/image.png" | relative_url }})
+![ERasdaD]({{ "/images/image.png" | absolute_url }})
+
+
 
