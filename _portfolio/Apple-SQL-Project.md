@@ -73,8 +73,3 @@ An end‑to‑end SQL analysis of Apple Store sales and warranty claims to uncov
 
 
 ![ERD]({{ "/images/image.png" | relative_url }})
-
----
-
-
-
