@@ -6,7 +6,7 @@ collection: portfolio
 
 This Power BI dashboard provides a comprehensive analysis of Costco's sales performance, visualizing key business insights like revenue, profit, orders, product sales, and regional performance.
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -14,7 +14,6 @@ This Power BI dashboard provides a comprehensive analysis of Costco's sales perf
 - **SQL** – Data extraction & transformation  
 - **Excel** – Data preprocessing  
 
----
 
 ## 📊 Use Cases
 
@@ -25,15 +24,13 @@ This Power BI dashboard provides a comprehensive analysis of Costco's sales perf
 5. **Revenue Segmentation** – Breakdown by Consumer, Corporate, and Home Office categories  
 6. **Interactive Filters** – Enables analysis for different years  
 
----
+
 
 ⚠️ *The dashboard may take a few seconds to load. Please be patient!*
 
 <br/>
 
 <iframe title="Costco Dashboard" width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTNkNTAwYjMtZTk1NS00YjFkLWJiOWMtZGNjMDZmMzMxYjNhIiwidCI6IjUyYWRmODM1LTJlMjItNDkyZC04ZDUxLWIzMTNkYmNkN2NjZiJ9" frameborder="0" allowfullscreen="true"></iframe>
-
----
 
 ## 🔗 GitHub Repository
 
