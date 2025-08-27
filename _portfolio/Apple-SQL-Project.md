@@ -1,10 +1,10 @@
 ---
 title: "Apple SQL Project"
-excerpt: "In-depth SQL project analyzing Apple Store sales and warranty claims data."
+excerpt: "Data-driven SQL project uncovering insights to optimize Apple Store sales and after-sales service."
 collection: portfolio
 ---
 
-[Download full project report (PDF)](files/Apple%20Store%20Sales%20Analysis.pdf)
+[Download full project report (PDF)]({{ "/files/Apple Store Sales Analysis.pdf" | relative_url }})
 
 
 
@@ -66,17 +66,16 @@ An end‑to‑end SQL analysis of Apple Store sales and warranty claims to uncov
 - Quantified early‑life failures to refine warranty policies
 - Produced ready‑to‑share charts/tables from SQL exports for stakeholders
 
-## GitHub
-- Full SQL scripts, query pack, and documentation: `github.com/tanish8851/Apple-SQL-Project`
+
+## GitHub Repository
+
+[Click here to view the project](https://github.com/tanish8851/Apple-SQL-Project)
 
 ---
 
-> **Tip for reviewers:** See the **ERD** above for table relationships and open the **PDF** for methodology, assumptions, and result summaries.
-
-![Entity Relationship Diagram (ERD)](images/image.png)
 
 ![ERD]({{ "/images/image.png" | relative_url }})
-![ERasdaD]({{ "/images/image.png" | absolute_url }})
+
 
 
 
