@@ -1,6 +1,6 @@
 ---
 title: "Costco Sales Dashboard"
-excerpt: "Interactive Power BI dashboard analyzing Costco's sales data."
+excerpt: " Interactive Power BI dashboard analyzing Costco’s sales performance, customer behavior, and revenue trends across multiple categories."
 collection: portfolio
 ---
 
