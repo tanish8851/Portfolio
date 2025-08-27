@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of Costco's sales perf
 
 ---
 
-### 🛠 Technologies Used
+## 🛠 Technologies Used
 
 - **Microsoft Power BI** – Data visualization & analysis  
 - **SQL** – Data extraction & transformation  
@@ -16,7 +16,7 @@ This Power BI dashboard provides a comprehensive analysis of Costco's sales perf
 
 ---
 
-### 📊 Use Cases
+## 📊 Use Cases
 
 1. **Sales Overview** – Displays total revenue, profit, and order trends over time  
 2. **Regional Performance** – Revenue and profit distribution across different regions  
@@ -35,6 +35,6 @@ This Power BI dashboard provides a comprehensive analysis of Costco's sales perf
 
 ---
 
-### 🔗 GitHub Repository
+## 🔗 GitHub Repository
 
 [Click here to view the project](https://github.com/tanish8851/Costco-Sales-Dynamic-Dashboard-Power-Bi-)
