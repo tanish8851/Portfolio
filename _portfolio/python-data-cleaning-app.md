@@ -7,7 +7,7 @@ collection: portfolio
 
 The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool built to preprocess, clean, and transform raw datasets into structured formats. It is ideal for analysts and professionals seeking fast, automated, and consistent data preparation before analysis or visualization.
 
----
+
 
 ## 🧰 Technologies Used
 
@@ -17,7 +17,7 @@ The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool buil
 - Matplotlib  
 - Tkinter  
 
----
+
 
 ## 📌 Features / Use Cases
 
@@ -29,7 +29,7 @@ The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool buil
 - **📤 Export Options**: Save cleaned data in CSV, Excel, JSON, or SQL format  
 - **🖥️ Interface**: Simple command-line or GUI using Tkinter  
 
----
+
 
 ## 🔗 GitHub Repository
 
