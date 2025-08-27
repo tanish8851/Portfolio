@@ -4,6 +4,7 @@ excerpt: "Python-based data cleaning app for transforming messy data into struct
 collection: portfolio
 ---
 
+
 The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool built to preprocess, clean, and transform raw datasets into structured formats. It is ideal for analysts and professionals seeking fast, automated, and consistent data preparation before analysis or visualization.
 
 ---
@@ -30,4 +31,6 @@ The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool buil
 
 ---
 
-🔗 **GitHub Repository**: [Python Data Cleaning App](https://github.com/tanish8851/Python-Data-Cleaning-App)
+## 🔗 GitHub Repository
+
+[Click here to view the project](https://github.com/tanish8851/Python-Data-Cleaning-App)
