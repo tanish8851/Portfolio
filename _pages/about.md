@@ -32,7 +32,7 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ---
 
-### [`Download Resume`](https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf)
+## [`Download Resume`](https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf)
 
 
 
