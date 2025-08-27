@@ -1,6 +1,6 @@
 ---
 title: "Mobile Sales Dashboard"
-excerpt: "Interactive Power BI dashboard analyzing mobile phone sales data. <!-- <br/><img src='https://media.istockphoto.com/id/1323992763/photo/online-shopping-concept-smartphone-with-podium-on-yellow-background.jpg?s=612x612&w=0&k=20&c=WzT9pRUIRMkQHVNKwSG9o1OChBSC-2E-ZItXYFKZPQQ='> --> "
+excerpt: "Interactive Power BI dashboard evaluating mobile phone sales, highlighting performance metrics and patterns across regions.   <!-- <br/><img src='https://media.istockphoto.com/id/1323992763/photo/online-shopping-concept-smartphone-with-podium-on-yellow-background.jpg?s=612x612&w=0&k=20&c=WzT9pRUIRMkQHVNKwSG9o1OChBSC-2E-ZItXYFKZPQQ='> --> "
 collection: portfolio
 ---
 
