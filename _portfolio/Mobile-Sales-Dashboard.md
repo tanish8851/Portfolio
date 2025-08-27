@@ -8,14 +8,14 @@ The Mobile Sales Dashboard is an interactive Power BI dashboard designed to anal
 
 ---
 
-### 🛠 Technologies Used
+## 🛠 Technologies Used
 
 - **Power BI** – Dashboard design & interactivity  
 - **Excel/CSV** – Data preprocessing  
 
 ---
 
-### 📊 Use Cases
+## 📊 Use Cases
 
 1. **Sales Analysis** – Track total sales, revenue, and profit margins  
 2. **Top Products & Brands** – Identify best-selling mobile brands and models  
@@ -30,3 +30,9 @@ The Mobile Sales Dashboard is an interactive Power BI dashboard designed to anal
 <br/>
 
 <iframe title="Mobiledashboard" width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZDliZjE1ODItZjQyNy00NTVkLTlkYTgtMWUyNzQ4ZDM0ZTRhIiwidCI6IjUyYWRmODM1LTJlMjItNDkyZC04ZDUxLWIzMTNkYmNkN2NjZiJ9" frameborder="0" allowfullscreen="true"></iframe>
+
+---
+
+## 🔗 GitHub Repository
+
+[Click here to view the project](https://github.com/tanish8851/Mobile-Sales-Dashboard)
