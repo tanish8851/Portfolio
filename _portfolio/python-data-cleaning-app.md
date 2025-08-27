@@ -9,7 +9,7 @@ The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool buil
 
 ---
 
-### 🧰 Technologies Used
+## 🧰 Technologies Used
 
 - Python  
 - Pandas  
@@ -19,7 +19,7 @@ The **Python Data Cleaning App** 🛠️📊 is a lightweight, modular tool buil
 
 ---
 
-### 📌 Features / Use Cases
+## 📌 Features / Use Cases
 
 - **📂 Data Import**: Supports CSV, Excel, JSON, and SQL database sources  
 - **❓ Missing Values**: Automatically detects and fills using strategies like mean, median, mode, or custom  
