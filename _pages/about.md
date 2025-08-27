@@ -17,10 +17,10 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ## ⚡ Skills
 
-### **Business Analysis Tools & Languages**  
+### Business Analysis Tools & Languages  
  `SQL` `Power BI` `Tableau` `Advanced Excel` `Python` `Statistics` `Machine Learning`
 
-### **Specialities**  
+### Specialities
  `Data Analytics` `Business Intelligence` `Reporting` `Automation` `A/B Testing` `Hypothesis Building` `Funnel Optimization` `Web Analytics` `Market Mix Modelling` `Project Management` `Documentation` `Communication` `Problem-Solving` `Critical Thinking` `Logical Reasoning` `Decision Making`
 
 ## 🚀 Latest Projects
