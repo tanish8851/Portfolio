@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 ## **💼 Professional Summary**
+---
 Dedicated **Data Analyst** with a strong foundation in **SQL, Python, and data visualization**. Skilled at turning complex datasets into actionable insights through **interactive dashboards**, **statistical modeling**, and **business intelligence tools**. Passionate about leveraging data to **drive decisions and optimize processes**.
 
 
 
 ## **🧑‍💻 Work Experience**
-
+---
 ### 🔹 Deloitte Data Analytics & Forensic Technology Virtual Experience *(May 2025)*  
 - Developed and delivered **Power BI dashboards** with interactive visuals (heatmaps, slicers, drill-downs) to present downtime distribution by factory location and equipment type and aligning insights with forensic audit standards.  
 - Utilized **Python (Pandas, NumPy)** and **SQL** to analyze 100,000+ operational records from factory equipment logs, identifying downtime patterns, root causes, and outliers, resulting in a 15% improvement in asset utilization by flagging high-risk device clusters.  
@@ -27,7 +28,7 @@ Dedicated **Data Analyst** with a strong foundation in **SQL, Python, and data v
 
 
 ## **⚡ Skills**
-
+---
 ### Business Analysis Tools & Languages  
 `SQL` `Power BI` `Tableau` `Advanced Excel` `Python` `Statistics` `Machine Learning`
 
@@ -35,7 +36,7 @@ Dedicated **Data Analyst** with a strong foundation in **SQL, Python, and data v
 `Data Analytics` `Business Intelligence` `Reporting` `Automation` `A/B Testing` `Hypothesis Building` `Funnel Optimization` `Web Analytics` `Market Mix Modelling` `Project Management` `Documentation` `Communication` `Problem-Solving` `Critical Thinking` `Logical Reasoning` `Decision Making`
 
 ## 🚀 Latest Projects
-
+---
 
 - [KPI Analysis of Lowell General Hospital](/portfolio/Lowell-general-hospital-analysis/)
 - [Apple SQL Project](/portfolio/Apple-SQL-Project/)
@@ -44,7 +45,7 @@ Dedicated **Data Analyst** with a strong foundation in **SQL, Python, and data v
 
 
 ## **🎓 Education**
-
+---
 **📗Bachelor of Computer Applications (Undergraduate)**  
 Guru Gobind Singh Indraprastha University, Delhi  
 *2025 | GPA: 8.3*  
