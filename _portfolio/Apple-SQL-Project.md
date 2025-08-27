@@ -71,11 +71,10 @@ An end‑to‑end SQL analysis of Apple Store sales and warranty claims to uncov
 
 [Click here to view the project](https://github.com/tanish8851/Apple-SQL-Project)
 
----
-
 
 ![ERD]({{ "/images/image.png" | relative_url }})
 
+---
 
 
 
