@@ -6,14 +6,14 @@ collection: portfolio
 
 The Mobile Sales Dashboard is an interactive Power BI dashboard designed to analyze and visualize mobile phone sales data. It provides key insights into sales performance, revenue trends, top-selling products, and customer behavior.
 
----
+
 
 ## 🛠 Technologies Used
 
 - **Power BI** – Dashboard design & interactivity  
 - **Excel/CSV** – Data preprocessing  
 
----
+
 
 ## 📊 Use Cases
 
@@ -23,15 +23,15 @@ The Mobile Sales Dashboard is an interactive Power BI dashboard designed to anal
 4. **Time-Based Trends** – Analyze monthly and yearly sales variations  
 5. **Dynamic Visuals** – Interactive charts, KPIs, and filters for better analysis  
 
----
 
+##
 ⚠️ *The dashboard may take a few seconds to load. Please be patient!*
 
 <br/>
 
 <iframe title="Mobiledashboard" width="950" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZDliZjE1ODItZjQyNy00NTVkLTlkYTgtMWUyNzQ4ZDM0ZTRhIiwidCI6IjUyYWRmODM1LTJlMjItNDkyZC04ZDUxLWIzMTNkYmNkN2NjZiJ9" frameborder="0" allowfullscreen="true"></iframe>
 
----
+
 
 ## 🔗 GitHub Repository
 
