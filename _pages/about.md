@@ -17,43 +17,22 @@ My passion lies in solving real-world problems through data. I'm always open to 
 
 ## ⚡ Skills
 
-**Business Analysis Tools & Languages**  
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">SQL</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Power BI</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Tableau</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Advanced Excel</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Python</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Statistics</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Machine Learning</span>
+#### **Business Analysis Tools & Languages**  
+`SQL` `Power BI` `Tableau` `Advanced Excel` `Python` `Statistics` `Machine Learning`
 
 **Specialities**  
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Data Analytics</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Business Intelligence</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Reporting</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Automation</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">A/B Testing</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Hypothesis Building</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Funnel Optimization</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Web Analytics</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Market Mix Modelling</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Project Management</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Documentation</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Communication</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Problem- solving</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Critical thinking</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Decision Making</span>
-<span style="background:#f4f4f4; padding:5px 10px; border-radius:8px; margin:5px; display:inline-block;">Logical Reasoning</span>
+`Data Analytics` `Business Intelligence` `Reporting` `Automation` `A/B Testing` `Hypothesis Building` `Funnel Optimization` `Web Analytics` `Market Mix Modelling` `Project Management` `Documentation` `Communication` `Problem-Solving` `Critical Thinking` `Logical Reasoning` `Decision Making`
 
 ## 🚀 Latest Projects
 
-- 📊[Apple SQL Project](/portfolio/Apple-SQL-Project/)
-- 📈[Costco Sales Dashboard](/portfolio/python-data-cleaning-app/)
-- 🧹[Python Data Cleaning App](portfolio/python-data-cleaning-app/)
+
+- 🏥 [KPI Analysis of Lowell General Hospital](/portfolio/Lowell-general-hospital-analysis/)
+- 📊 [Apple SQL Project](/portfolio/Apple-SQL-Project/)
+- 📈 [Costco Sales Dashboard](/portfolio/Costco-Sales-Dashboard/)
 
 ---
 
-<a href="https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf" class="btn" style="background-color:#35393c; color:white; padding:10px 20px; border-radius:5px; text-decoration:none;">
-    View My CV
-</a>
+### [`Download Resume`](https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf)
+
 
 
