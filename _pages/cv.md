@@ -59,7 +59,7 @@ Banasthali Public School
 
 
 ## **📜 Certificates**
-
+---
 **🏆Microsoft Power BI Data Analyst Professional**  
 Microsoft — *Feb 2025*  
 [View Certificate]({{ "/files/aptech__.pdf" | relative_url }})
