@@ -18,10 +18,10 @@ My passion lies in solving real-world problems through data. I'm always open to 
 ## ⚡ Skills
 
 #### **Business Analysis Tools & Languages**  
-`SQL` `Power BI` `Tableau` `Advanced Excel` `Python` `Statistics` `Machine Learning`
+## `SQL` `Power BI` `Tableau` `Advanced Excel` `Python` `Statistics` `Machine Learning`
 
 **Specialities**  
-`Data Analytics` `Business Intelligence` `Reporting` `Automation` `A/B Testing` `Hypothesis Building` `Funnel Optimization` `Web Analytics` `Market Mix Modelling` `Project Management` `Documentation` `Communication` `Problem-Solving` `Critical Thinking` `Logical Reasoning` `Decision Making`
+## `Data Analytics` `Business Intelligence` `Reporting` `Automation` `A/B Testing` `Hypothesis Building` `Funnel Optimization` `Web Analytics` `Market Mix Modelling` `Project Management` `Documentation` `Communication` `Problem-Solving` `Critical Thinking` `Logical Reasoning` `Decision Making`
 
 ## 🚀 Latest Projects
 
@@ -30,9 +30,8 @@ My passion lies in solving real-world problems through data. I'm always open to 
 - 📊 [Apple SQL Project](/portfolio/Apple-SQL-Project/)
 - 📈 [Costco Sales Dashboard](/portfolio/Costco-Sales-Dashboard/)
 
----
 
-## [`Download Resume`](https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf)
+## [Download Resume](https://tanish8851.github.io/Portfolio//files/tanish_grover_resume.pdf)
 
 
 
